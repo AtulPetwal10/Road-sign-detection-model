@@ -9,19 +9,19 @@
 </p>
 <br>
 
-<h1>if its not working for every sign dont worry about it.
+<h3>if its not working for every sign dont worry about it.
 both the models are trained over a small and diffrent dataset
 use the image from test image folder or the videos from demo input output folder
-thank you</h1>
+thank you</h3>
 <br>
 
-#for non gpu system-
-<h1>use google collab as it provides the gpu runtime environment</h1>
+<h1>for non gpu system-</h1>h1>
+<h3>use google collab as it provides the gpu runtime environment</h3>
 <br>
-#dataset-
-<h1>i havent't uploaded the dataset in the following repo.
+<h1>dataset-</h1>
+<h3>i havent't uploaded the dataset in the following repo.
 will surely upload it if people are finding this repo useful
-</h1>
+</h3>
 
 
 

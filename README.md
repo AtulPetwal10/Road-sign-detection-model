@@ -15,7 +15,7 @@ use the image from test image folder or the videos from demo input output folder
 thank you</h3>
 <br>
 
-<h1>for non gpu system-</h1>h1>
+<h1>for non gpu system-</h1>
 <h3>use google collab as it provides the gpu runtime environment</h3>
 <br>
 <h1>dataset-</h1>

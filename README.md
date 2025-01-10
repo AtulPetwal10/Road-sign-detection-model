@@ -19,8 +19,7 @@ thank you</h3>
 <h3>use google collab as it provides the gpu runtime environment</h3>
 <br>
 <h1>dataset-</h1>
-<h3>i havent't uploaded the dataset in the following repo.
-will surely upload it if people are finding this repo useful
+<h3>I haven't uploaded the dataset to the repository yet, but I will upload it if people find this repository useful
 </h3>
 
 
